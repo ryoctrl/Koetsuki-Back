@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
         {
-            name: 'MOAP-Backend',
+            name: 'koetuki-b',
             script: 'npm',
             args: 'start',
             watch: ['controllers/', 'routes/', 'models/'],
