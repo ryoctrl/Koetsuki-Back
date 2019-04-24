@@ -26,8 +26,7 @@ router.get('/', async (req, res) => {
     res.json(circles);
 });
 
-/*
-router.post('/create', [checkedLoggedIn, upload.single('image')], async (req, res) => {
+router.post('/create', [/*checkedLoggedIn,*/ upload.single('image')], async (req, res) => {
     const body = req.body;
     const spaceName = body.spaceName;
     const name = body.name;
@@ -42,7 +41,6 @@ router.post('/create', [checkedLoggedIn, upload.single('image')], async (req, re
 
     res.json(result);
 });
-*/
 
 
 router.post('/update', [checkLoggedIn, upload.single('image')], async (req, res) => {

@@ -7,7 +7,7 @@ const uc = require('../controllers/userController');
 router.post('/create', checkLoggedIn, async (req, res) => {
     const postedUid = req.session.passport.user.id;
     const { uid, cid } = req.body;
-    if(!postedUid !== uid) {
+    if(Number(postedUid) !== Number(uid)) {
         res.status(403);
         res.json({
             err: true,
@@ -22,8 +22,17 @@ router.post('/delete', checkLoggedIn, async (req, res) => {
     const postedUid = req.session.passport.user.id;
     const id = req.body.id;
     if(id == -1) res.status(500);
-    const favorite = await favorite.findOneById(id);
-    if(postedUid !== favorite.userId) {
+    const favorite = await fc.findOneById(id);
+    if(!favorite) {
+        res.status(404);
+        res.json({
+            err: true,
+            message: 'favorite not found!'
+        });
+        return;
+    }
+    console.log(postedUid, favorite);
+    if(Number(postedUid) !== Number(favorite.userId)) {
         res.status(403);
         res.json({
             err: true,
