@@ -1,0 +1,24 @@
+module.exports = {
+    apps: [
+        {
+            name: 'koetuki-b',
+            script: 'npm',
+            args: 'start',
+            watch: ['controllers/', 'routes/', 'models/'],
+            env: {
+                HOST_NAME: 'koetsuki.mosin.jp/api',
+                USE_SSL: true,
+                MULTER_SETTINGS: {
+                    dest: './public/images'
+                },
+                AUTH: {
+                    twitter: {
+                        active: true,
+                        CONSUMER_KEY: '',
+                        CONSUMER_SECRET: '',
+                    }
+                }
+            }
+        }
+    ]
+}
