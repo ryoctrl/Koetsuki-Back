@@ -4,6 +4,16 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 const session = require('express-session');
+const MySQLStore = require('express-mysql-session')(session);
+
+const sessionSQLOptions = {
+    host: process.env.DB_HOST,
+    port: 3306,
+    user: process.env.DB_USER,
+    password: process.env.DB_PASS,
+    database: process.env.DB_DATABASE,
+};
+
 const authController = require('./controllers/authController');
 
 var indexRouter = require('./routes/index');
@@ -21,9 +31,15 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(session({
     secret: 'koetuki-app',
+    cookie: { maxAge: 60000 },
+    //cookie: { maxAge: 60000, secure: true },
+    store: new MySQLStore(sessionSQLOptions),
     resave: false,
-    saveUninitialized: true
+    saveUninitialized: true,
 }));
+
+//app.set('trust proxy', 1);
+
 authController.initialize(app);
 
 /* allow CORS */
