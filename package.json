@@ -21,5 +21,10 @@
     "passport": "^0.4.0",
     "passport-twitter": "^1.0.4",
     "sequelize": "^5.8.2"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
   }
 }

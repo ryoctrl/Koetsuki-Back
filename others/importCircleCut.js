@@ -1,9 +1,5 @@
-const fs = require('fs');
 const path = require('path');
-const files = [
-    'circles-1F.json',
-    'circles-2F.json',
-]
+const circleCuts = require('./circleCuts.json');
 const cc = require('../controllers/CirclesController');
 const gc = require('../controllers/GoodsController');
 
@@ -11,6 +7,37 @@ const gc = require('../controllers/GoodsController');
 // cricle update = async function(id, name, penName, spaceName, twitter, circleCut) 
 // goods create => async function(circleId, name, price, image, isNew)
 // goods update = async function(id, name, price, image, isNew)
+const process = async () => {
+    let procCount = 0, circleNFCount = 0, circleSettedCount = 0;
+    let nfcircles = [];
+    for(const circleCut of circleCuts) {
+        const space = circleCut.space;
+        const circle = await cc.findOneBySpaceName(space);
+        if(!circle) {
+            console.log('circle Not found!');
+            console.log(space);
+            nfcircles.push(circleCut);
+            circleNFCount++;
+            continue;
+        }
+
+        if(circle.circleCut) {
+            console.log('circle cut is already setted!');
+            circleSettedCount++;
+            continue;
+        }
+
+        await cc.update(circle.id, circle.name, circle.penName, circle.spaceName, circle.twitter, circleCut.src);
+        procCount++;
+    }
+
+    console.log('Process completed!');
+    console.log('Process count', procCount);
+    console.log('Circle not found', circleNFCount);
+    console.log(nfcircles);
+    console.log(circleSettedCount, 'circles already image setted');
+}
+    /*
 const process = async (circles) => {
     for(const circle of circles) {
         let circleObj = await cc.findOneBySpaceName(circle.spaceName);
@@ -35,14 +62,6 @@ const process = async (circles) => {
         }
     }
 }
+*/
 
-const start = async () => {
-    for(let file of files) {
-        file = path.join(__dirname, file);
-        const circles = JSON.parse(fs.readFileSync(file));
-        await process(circles);
-    }
-};
-
-//start();
-
+process();
