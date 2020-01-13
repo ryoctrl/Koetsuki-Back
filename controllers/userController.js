@@ -14,6 +14,30 @@ module.exports = {
         let user = await User.findOne(q);
 
         if(user) {
+            // アイコン無し
+            if(!profile.photos || !Array.isArray(profile.photos) || profile.photos.length === 0) return done(null, user);
+
+            const iconUrl = profile.photos[0].value.replace(/_normal/, '');
+
+            console.log(profile.photos);
+
+            console.log('find icon!');
+
+            console.log(user.iconUrl);
+
+            if(user.iconUrl === iconUrl) return done(null, user);
+
+            const obj = {
+                iconUrl,
+            };
+
+            console.log('icon updated!');
+
+            await User.update(obj, q).catch(err => {
+                console.log('update icon url error!');
+                console.log(err);
+            });
+
             return done(null, user);
         }
 
