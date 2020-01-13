@@ -1,12 +1,12 @@
 'use strict';
 
 module.exports = {
-    up: (queryInterface, Sequelize) => {
-        queryInterface.addColumn('circles', 'circleCut', {
+    up: async (queryInterface, Sequelize) => {
+        await queryInterface.addColumn('circles', 'circleCut', {
             type: Sequelize.STRING
         });
     },
-    down: (queryInterface, Sequelize) => {
-        queryInterface.removeColumn('circles', 'circleCut');
+    down: async (queryInterface, Sequelize) => {
+        await queryInterface.removeColumn('circles', 'circleCut');
     }
 };
