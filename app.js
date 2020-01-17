@@ -31,7 +31,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(session({
     secret: 'koetuki-app',
-    cookie: { maxAge: 60000 },
+    cookie: { maxAge: 1000 * 60 * 60 * 24 * 365 },
     //cookie: { maxAge: 60000, secure: true },
     store: new MySQLStore(sessionSQLOptions),
     resave: false,
