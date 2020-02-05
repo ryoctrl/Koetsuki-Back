@@ -30,6 +30,25 @@ const update = async function(id, name, penName, spaceName, twitter, circleCut) 
     });
 }
 
+const updateTwitter = async function(id, twitter) {
+    const q = {
+        where: {
+            id,
+        }
+    };
+
+    const obj = {
+        twitter
+    };
+
+    return await Circle.update(obj, q).catch(err => {
+        return {
+            err: true,
+            message: err.original.sqlMessage
+        }
+    });
+};
+
 const getAll = async function() {
     return await Circle.findAll();
 }
@@ -57,6 +76,7 @@ module.exports = {
     getAll,
     create,
     update,
+    updateTwitter,
     findOneById, 
     findOneBySpaceName
 };
