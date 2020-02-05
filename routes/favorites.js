@@ -31,7 +31,7 @@ router.post('/delete', checkLoggedIn, async (req, res) => {
         });
         return;
     }
-    console.log(postedUid, favorite);
+
     if(Number(postedUid) !== Number(favorite.userId)) {
         res.status(403);
         res.json({
