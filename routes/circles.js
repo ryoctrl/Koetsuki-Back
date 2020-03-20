@@ -26,6 +26,30 @@ router.get('/', async (req, res) => {
     res.json(circles);
 });
 
+router.get('/:id/twitter', async (req, res) => {
+    res.status(200).json({});
+    /*
+    const { id } = req.params || { id: 0 };
+    const circle = await circlesController.findOneById(id) || {};
+    const title = `${circle.name || 'サークル名'} - ${circle.penName || 'ペンネーム'}`;
+    const description = `この声届け月までも六 ${circle.spaceName || 'X-01'} - ${circle.name || 'サークル名'} - ${circle.penName || 'ペンネーム'}`;
+    const url = circle.circleCut ? 'https://koetsuki-dev.mosin.jp/api/images/' + circle.circleCut : 'https://koetsuki.mosin.jp/api/images/top.jpg';
+    const str = `
+        <html>
+            <header>
+                <meta name="twitter:card" content="summary_large_image" />
+                <meta property="og:url" content="https://koetsuki.mosin.jp/circles/${id}"/> 
+                <meta property="og:title" content="${title}" /> 
+                <meta property="og:description" content="${description}" />
+                <meta property="og:image" content="${url}" />
+            </header>
+        </html>
+    `;
+
+    res.status(200).send(str);
+    */
+});
+
 router.post('/create', [/*checkedLoggedIn,*/ upload.single('image')], async (req, res) => {
     const body = req.body;
     const spaceName = body.spaceName;
