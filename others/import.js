@@ -1,8 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const files = [
-    'circles-1F.json',
-    'circles-2F.json',
+    'extendedCircles.json',
 ]
 const cc = require('../controllers/CirclesController');
 const gc = require('../controllers/GoodsController');
@@ -12,16 +11,35 @@ const gc = require('../controllers/GoodsController');
 // goods create => async function(circleId, name, price, image, isNew)
 // goods update = async function(id, name, price, image, isNew)
 const process = async (circles) => {
+    console.log('begin loading => ', circles.length);
     for(const circle of circles) {
         let circleObj = await cc.findOneBySpaceName(circle.spaceName);
+        /*
         let registeredGoods = [];
-        if(circleObj) {
-            circleObj = await cc.update(circleObj.id, circle.name, circle.penName, circle.spaceName, circle.twitter, null);
-        } else {
-            circleObj = await cc.create(circle.name, circle.penName, circle.spaceName, circle.twitter, null);
+        const registered = circleObj.twitter;
+        if(!circleObj) continue;
+        if(registered && registered.length > 1 && registered.startsWith('http')) {
+            continue;
         }
 
-        for(const goods of circle.goods) {
+        const exp = circle.twitter.match(/\/\/twitter.com\/(.*)$/);
+
+        if(exp === null || exp.length < 2) {
+            console.log(circle.space);
+            console.log(circle.twitter);
+            continue;
+        }
+
+        const twitter = exp[1];
+        await cc.updateTwitter(circleObj.id, twitter);
+        */
+        if(circleObj) {
+            circleObj = await cc.update(circleObj.id, circle.name, circle.penName, circle.spaceName, circle.twitter || '', null);
+        } else {
+            circleObj = await cc.create(circle.name, circle.penName, circle.spaceName, circle.twitter || '' , null);
+        }
+
+        for(const goods of circle.goods || []) {
             if(!goods.isNew) goods.isNew = false;
             if(goods.isNew === '新') goods.isNew = true;
             if(!goods.price) goods.price = -1;
@@ -44,5 +62,5 @@ const start = async () => {
     }
 };
 
-//start();
+start();
 

@@ -1,0 +1,2012 @@
+[
+    {
+        "spaceName": "A-01,02",
+        "name": "ひまわり園ゆり組",
+        "penName": "那加斗"
+    },
+    {
+        "spaceName": "A-03",
+        "name": "もちほっぺ",
+        "penName": "トゥーミ"
+    },
+    {
+        "spaceName": "A-04",
+        "name": "夏色テルミット",
+        "penName": "夏樹テル"
+    },
+    {
+        "spaceName": "A-05",
+        "name": "化学質。",
+        "penName": "薄井硫酸"
+    },
+    {
+        "spaceName": "A-06",
+        "name": "疾走するマレー熊",
+        "penName": "籠乃あさぎり"
+    },
+    {
+        "spaceName": "A-07",
+        "name": "ななつや",
+        "penName": "椋木ななつ"
+    },
+    {
+        "spaceName": "A-08",
+        "name": "MOZU!",
+        "penName": "げる"
+    },
+    {
+        "spaceName": "A-09,10",
+        "name": "リトル本舗",
+        "penName": "守木涼"
+    },
+    {
+        "spaceName": "A-11",
+        "name": "ice-ya",
+        "penName": "きゃらあい"
+    },
+    {
+        "spaceName": "A-12",
+        "name": "げんげ科",
+        "penName": "根岸野蓮"
+    },
+    {
+        "spaceName": "A-13",
+        "name": "いんふぃにてぃふぁぶりっく",
+        "penName": "ひまじん(ひまじん)　窓機械"
+    },
+    {
+        "spaceName": "A-14",
+        "name": "りんめっと",
+        "penName": "りんめい"
+    },
+    {
+        "spaceName": "A-15",
+        "name": "セーラー少女☆DX",
+        "penName": "こぐれやま"
+    },
+    {
+        "spaceName": "A-16",
+        "name": "月の止まり木",
+        "penName": "宝樹"
+    },
+    {
+        "spaceName": "A-17",
+        "name": "Junagna",
+        "penName": "Jun"
+    },
+    {
+        "spaceName": "A-18",
+        "name": "しまむらグループ",
+        "penName": "しまむら"
+    },
+    {
+        "spaceName": "A-19",
+        "name": "快眠予報",
+        "penName": "緋月優"
+    },
+    {
+        "spaceName": "A-20",
+        "name": "ねころぶいぬ",
+        "penName": "甘夏なか"
+    },
+    {
+        "spaceName": "B-01",
+        "name": "植木鉢005",
+        "penName": "シャコバ"
+    },
+    {
+        "spaceName": "B-02",
+        "name": "蝉工場　出張編",
+        "penName": "遊庵　せせらぎまごめ　ツバサ"
+    },
+    {
+        "spaceName": "B-03",
+        "name": "わさび味のみかん",
+        "penName": "higen"
+    },
+    {
+        "spaceName": "B-04",
+        "name": "くらげ隔離エリア",
+        "penName": "うちゅうくらげ"
+    },
+    {
+        "spaceName": "B-05",
+        "name": "シュドラジェ",
+        "penName": "高橋直哉"
+    },
+    {
+        "spaceName": "B-06",
+        "name": "喜雨慈雨",
+        "penName": "旅歌♪"
+    },
+    {
+        "spaceName": "B-07",
+        "name": "ぬこ酒場。",
+        "penName": "てょむ"
+    },
+    {
+        "spaceName": "B-08",
+        "name": "Voyagelica",
+        "penName": "EbiRi"
+    },
+    {
+        "spaceName": "B-09",
+        "name": "今宮家。",
+        "penName": "今宮ぴの子"
+    },
+    {
+        "spaceName": "B-10",
+        "name": "どっとコスモ",
+        "penName": "こんぺ伊藤"
+    },
+    {
+        "spaceName": "B-11",
+        "name": "しぐなるいえろー",
+        "penName": "みるくぱんだ"
+    },
+    {
+        "spaceName": "B-12",
+        "name": "くぅ☆ポン",
+        "penName": "かくゆご"
+    },
+    {
+        "spaceName": "B-13",
+        "name": "秋刀魚の尻尾",
+        "penName": "秋刀尾"
+    },
+    {
+        "spaceName": "B-14",
+        "name": "鬼一口",
+        "penName": "源三"
+    },
+    {
+        "spaceName": "B-15",
+        "name": "7番レジ",
+        "penName": "きなこねじり"
+    },
+    {
+        "spaceName": "B-16",
+        "name": "もりのあるまち",
+        "penName": "ゆきは"
+    },
+    {
+        "spaceName": "B-17",
+        "name": "雑草魂",
+        "penName": "けいる 山田七色"
+    },
+    {
+        "spaceName": "B-18",
+        "name": "朝陽と星灯",
+        "penName": "ばしょく"
+    },
+    {
+        "spaceName": "B-19",
+        "name": "Rampaged sight",
+        "penName": "ヶ崎"
+    },
+    {
+        "spaceName": "B-20",
+        "name": "絶対に開けないでください!!",
+        "penName": "揚げたわし"
+    },
+    {
+        "spaceName": "C-01",
+        "name": "さくらえびのタネ",
+        "penName": "じぁん！"
+    },
+    {
+        "spaceName": "C-02",
+        "name": "科猿",
+        "penName": "かたり"
+    },
+    {
+        "spaceName": "C-03,04",
+        "name": "ゆかりさん愛されもっと流行れ委員会",
+        "penName": "パルスゥイ"
+    },
+    {
+        "spaceName": "C-05",
+        "name": "陰謀団",
+        "penName": "ナツイチ"
+    },
+    {
+        "spaceName": "C-06",
+        "name": "ん？",
+        "penName": "倉付戸あこ"
+    },
+    {
+        "spaceName": "C-07",
+        "name": "つきいろばにら",
+        "penName": "しろあいす"
+    },
+    {
+        "spaceName": "C-08",
+        "name": "梓の音色",
+        "penName": "梓音しのん"
+    },
+    {
+        "spaceName": "C-09",
+        "name": "縞城のおしろ",
+        "penName": "縞城依月"
+    },
+    {
+        "spaceName": "C-11",
+        "name": "みるくプリン",
+        "penName": "ジャムしぃ"
+    },
+    {
+        "spaceName": "C-12",
+        "name": "ゆかりごはん茜ちん定食",
+        "penName": "コニール"
+    },
+    {
+        "spaceName": "C-13",
+        "name": "柳瀬川",
+        "penName": "ミルキャラ"
+    },
+    {
+        "spaceName": "C-14",
+        "name": "そして物語が終わる",
+        "penName": "そして"
+    },
+    {
+        "spaceName": "C-15",
+        "name": "リット調査団",
+        "penName": "Litto"
+    },
+    {
+        "spaceName": "C-16",
+        "name": "ラパパメリカ",
+        "penName": "ラパメリ"
+    },
+    {
+        "spaceName": "C-17",
+        "name": "ぷち焦げキッチン",
+        "penName": "ぽんで"
+    },
+    {
+        "spaceName": "C-18",
+        "name": "玩具菓子屋",
+        "penName": "いつものたけし"
+    },
+    {
+        "spaceName": "C-19,20",
+        "name": "猿クレイヴ",
+        "penName": "大統領"
+    },
+    {
+        "spaceName": "D-01",
+        "name": "コウノス",
+        "penName": "コウノス"
+    },
+    {
+        "spaceName": "D-02",
+        "name": "フレンジード小鳥",
+        "penName": "コガラ"
+    },
+    {
+        "spaceName": "D-03",
+        "name": "帰宅部",
+        "penName": "((ゆう))"
+    },
+    {
+        "spaceName": "D-04",
+        "name": "メニポイマニア",
+        "penName": "miyota"
+    },
+    {
+        "spaceName": "D-05",
+        "name": "踊り場の掲示物",
+        "penName": "天迎御霊"
+    },
+    {
+        "spaceName": "D-06",
+        "name": "しゃごぞう帝国書籍課製本部",
+        "penName": "しゃごぞう"
+    },
+    {
+        "spaceName": "D-07",
+        "name": "鰻の寝床",
+        "penName": "山羊鷲"
+    },
+    {
+        "spaceName": "D-08",
+        "name": "クラウン執務室",
+        "penName": "クラウン提督"
+    },
+    {
+        "spaceName": "D-09",
+        "name": "numbers",
+        "penName": "no10"
+    },
+    {
+        "spaceName": "D-10",
+        "name": "不自由書房",
+        "penName": "四ノ宮真央"
+    },
+    {
+        "spaceName": "D-11,12",
+        "name": "きたみたかった。✕ 将棋盤",
+        "penName": "きたひが、kま"
+    },
+    {
+        "spaceName": "D-13",
+        "name": "GrandTourister",
+        "penName": "Mikayan"
+    },
+    {
+        "spaceName": "D-14",
+        "name": "焼き加減",
+        "penName": "ミディアムレア"
+    },
+    {
+        "spaceName": "D-15",
+        "name": "コタつむり",
+        "penName": "ホリコタツ"
+    },
+    {
+        "spaceName": "D-16",
+        "name": "しじみの多い定食屋。",
+        "penName": "ふゆぎりしのぶ"
+    },
+    {
+        "spaceName": "D-17,18",
+        "name": "ボイチェビクラスタボドゲ会",
+        "penName": "ひーりあ"
+    },
+    {
+        "spaceName": "D-19,20",
+        "name": "GYARISUTA!",
+        "penName": "GYARI"
+    },
+    {
+        "spaceName": "E-01,02",
+        "name": "美鳥",
+        "penName": "秋海棠"
+    },
+    {
+        "spaceName": "E-03",
+        "name": "群青ネギハート",
+        "penName": "黒瀬しおや"
+    },
+    {
+        "spaceName": "E-04",
+        "name": "隅々中心主義",
+        "penName": "Sumiism"
+    },
+    {
+        "spaceName": "E-05",
+        "name": "山桜ビール工房",
+        "penName": "山桜ぱぱ"
+    },
+    {
+        "spaceName": "E-06",
+        "name": "From East Sea",
+        "penName": "開いた口にぼた餅"
+    },
+    {
+        "spaceName": "E-07",
+        "name": "超合金スライム",
+        "penName": "サティス"
+    },
+    {
+        "spaceName": "E-08",
+        "name": "Lcohol fish",
+        "penName": "シルシラ"
+    },
+    {
+        "spaceName": "E-09",
+        "name": "numberROCK!!",
+        "penName": "紫乃紫"
+    },
+    {
+        "spaceName": "E-10",
+        "name": "下恋",
+        "penName": "水無瀬"
+    },
+    {
+        "spaceName": "E-11",
+        "name": "cisco",
+        "penName": "cisco"
+    },
+    {
+        "spaceName": "E-12",
+        "name": "またたびの森",
+        "penName": "あっちー"
+    },
+    {
+        "spaceName": "E-13",
+        "name": "タカオカミズキ",
+        "penName": "タカオカミズキ"
+    },
+    {
+        "spaceName": "E-14",
+        "name": "はぴゆかり",
+        "penName": "たかはっP"
+    },
+    {
+        "spaceName": "E-15",
+        "name": "秋桜もち",
+        "penName": "fallin"
+    },
+    {
+        "spaceName": "E-16",
+        "name": "ONE＆LONELY",
+        "penName": "イージマさん"
+    },
+    {
+        "spaceName": "E-17",
+        "name": "伊達眼鏡本舗",
+        "penName": "伊達ユイ"
+    },
+    {
+        "spaceName": "E-18",
+        "name": "空き屋",
+        "penName": "あき"
+    },
+    {
+        "spaceName": "E-19",
+        "name": "SPINALIEN",
+        "penName": "八塚スピナ"
+    },
+    {
+        "spaceName": "F-01,02",
+        "name": "ねじ式",
+        "penName": "ねじ式"
+    },
+    {
+        "spaceName": "F-03,04",
+        "name": "ハガネノウサギゴヤ",
+        "penName": "KAI"
+    },
+    {
+        "spaceName": "F-05",
+        "name": "LiLRAIN",
+        "penName": "唯人"
+    },
+    {
+        "spaceName": "F-06",
+        "name": "桜華音",
+        "penName": "来栖遥希"
+    },
+    {
+        "spaceName": "F-07",
+        "name": "またたびとねこじゃらし",
+        "penName": "Chiaki"
+    },
+    {
+        "spaceName": "F-08",
+        "name": "絵に描いた城",
+        "penName": "レマノルド"
+    },
+    {
+        "spaceName": "F-09",
+        "name": "狐小屋",
+        "penName": "狐々"
+    },
+    {
+        "spaceName": "F-10",
+        "name": "RAMもあ",
+        "penName": "RAMもあ"
+    },
+    {
+        "spaceName": "F-11",
+        "name": "TreatHunters × ろますと部",
+        "penName": "野中ハロウィン"
+    },
+    {
+        "spaceName": "F-12",
+        "name": "工藤ゼミ",
+        "penName": "しろ"
+    },
+    {
+        "spaceName": "F-13",
+        "name": "Lotus Music",
+        "penName": "Oji/Yohei Watanabe"
+    },
+    {
+        "spaceName": "F-14",
+        "name": "As Like Music",
+        "penName": "hibari"
+    },
+    {
+        "spaceName": "F-15",
+        "name": "かよたび☆マーケット",
+        "penName": "かよぴぃ"
+    },
+    {
+        "spaceName": "F-16",
+        "name": "メンヘラひよこクラブ",
+        "penName": "メンヘラひよこ"
+    },
+    {
+        "spaceName": "F-17",
+        "name": "Twin's MEMORY",
+        "penName": "ナナミル"
+    },
+    {
+        "spaceName": "F-18",
+        "name": "ÉTOILE SAGA Project",
+        "penName": "文月フミト"
+    },
+    {
+        "spaceName": "F-19",
+        "name": "kisekilay",
+        "penName": "細井聡司"
+    },
+    {
+        "spaceName": "F-20",
+        "name": "ちょむ工房",
+        "penName": "ちょむＰ"
+    },
+    {
+        "spaceName": "G-01",
+        "name": "GTども",
+        "penName": "たかぴぃ"
+    },
+    {
+        "spaceName": "G-02",
+        "name": "P4works.",
+        "penName": "湊いつき"
+    },
+    {
+        "spaceName": "G-03",
+        "name": "Neko Drop",
+        "penName": "スイカ水"
+    },
+    {
+        "spaceName": "G-04",
+        "name": "GOOD GRIEF RECORDS",
+        "penName": "きゅおんママ"
+    },
+    {
+        "spaceName": "G-05",
+        "name": "Farthest",
+        "penName": "将"
+    },
+    {
+        "spaceName": "G-06",
+        "name": "創彩社",
+        "penName": "こーえい"
+    },
+    {
+        "spaceName": "G-07",
+        "name": "エドガワ",
+        "penName": "江戸川リバ子"
+    },
+    {
+        "spaceName": "G-08",
+        "name": "ゆかり園",
+        "penName": "ヲタ乙"
+    },
+    {
+        "spaceName": "G-09,10",
+        "name": "ささらすぴん",
+        "penName": "小金井ささら"
+    },
+    {
+        "spaceName": "G-11",
+        "name": "neko5kg",
+        "penName": "NGC222"
+    },
+    {
+        "spaceName": "G-12",
+        "name": "たそがれこーず",
+        "penName": "n_oei"
+    },
+    {
+        "spaceName": "G-13",
+        "name": "hito",
+        "penName": "hito"
+    },
+    {
+        "spaceName": "G-14",
+        "name": "G.Roop -黒瓜丿美の部屋-",
+        "penName": "黒瓜丿美"
+    },
+    {
+        "spaceName": "G-15",
+        "name": "橙色のダイ",
+        "penName": "橙色のダイ"
+    },
+    {
+        "spaceName": "G-16",
+        "name": "Fact or Fiction",
+        "penName": "ヴィックスベポラッＰ"
+    },
+    {
+        "spaceName": "G-17",
+        "name": "R-gear",
+        "penName": "regia"
+    },
+    {
+        "spaceName": "G-18",
+        "name": "Dolphin Record",
+        "penName": "DolphinE"
+    },
+    {
+        "spaceName": "G-19",
+        "name": "ワカバプロとMinusNine",
+        "penName": "ワカバ、3十"
+    },
+    {
+        "spaceName": "G-20",
+        "name": "EHAMIC",
+        "penName": "EHAMIC"
+    },
+    {
+        "spaceName": "H-02",
+        "name": "ヤデュクシチャンネル",
+        "penName": "ヤヅキ激おこＰ"
+    },
+    {
+        "spaceName": "H-03",
+        "name": "やっしーq",
+        "penName": "やっしー"
+    },
+    {
+        "spaceName": "H-04",
+        "name": "帝国音楽堂",
+        "penName": "バーバラ・アスカ"
+    },
+    {
+        "spaceName": "H-05",
+        "name": "ALPHA TERMINAL",
+        "penName": "marok"
+    },
+    {
+        "spaceName": "H-06",
+        "name": "QOLをあげるよーの会",
+        "penName": "わかばマークおじさん"
+    },
+    {
+        "spaceName": "H-07",
+        "name": "CloA",
+        "penName": "CloA"
+    },
+    {
+        "spaceName": "H-08",
+        "name": "ピアニカスピリッツ",
+        "penName": "knee"
+    },
+    {
+        "spaceName": "H-09",
+        "name": "Chromesphere Records",
+        "penName": "syatten"
+    },
+    {
+        "spaceName": "H-10",
+        "name": "アウクシリア",
+        "penName": "アウクシ"
+    },
+    {
+        "spaceName": "H-11",
+        "name": "コトノプリズム",
+        "penName": "いるかアイス"
+    },
+    {
+        "spaceName": "H-12",
+        "name": "地下2階CandyShop",
+        "penName": "kashiya"
+    },
+    {
+        "spaceName": "H-13",
+        "name": "乙茸茶漬",
+        "penName": "小茶月　鋸"
+    },
+    {
+        "spaceName": "H-14",
+        "name": "有頂天ふれんず",
+        "penName": "かなめいし"
+    },
+    {
+        "spaceName": "H-15",
+        "name": "笹乃花処",
+        "penName": "Rimoly"
+    },
+    {
+        "spaceName": "H-16",
+        "name": "マイカズン",
+        "penName": "ゆゆふうみ"
+    },
+    {
+        "spaceName": "H-17",
+        "name": "TryCanvas",
+        "penName": "しろずみ"
+    },
+    {
+        "spaceName": "H-18",
+        "name": "とろたま亭",
+        "penName": "ととろす"
+    },
+    {
+        "spaceName": "H-19",
+        "name": "地水火風",
+        "penName": "kulori"
+    },
+    {
+        "spaceName": "H-20",
+        "name": "もげる",
+        "penName": "多々良さん"
+    },
+    {
+        "spaceName": "I-02",
+        "name": "まったーり屋",
+        "penName": "メルキアリス"
+    },
+    {
+        "spaceName": "I-03",
+        "name": "にょほほん屋",
+        "penName": "にょほほん村"
+    },
+    {
+        "spaceName": "I-04",
+        "name": "игрушка",
+        "penName": "ぽな粉"
+    },
+    {
+        "spaceName": "I-05",
+        "name": "みなべや",
+        "penName": "羽柴はく"
+    },
+    {
+        "spaceName": "I-06",
+        "name": "アライタマ・フットワークス",
+        "penName": "アライタマ・セキグチ"
+    },
+    {
+        "spaceName": "I-07",
+        "name": "うまざけにえい",
+        "penName": "七六"
+    },
+    {
+        "spaceName": "I-08",
+        "name": "黒乃診療所",
+        "penName": "黒乃シモン"
+    },
+    {
+        "spaceName": "I-09",
+        "name": "てぃーDチャンプルー",
+        "penName": "+慧+　cem"
+    },
+    {
+        "spaceName": "I-11",
+        "name": "有休３６５にち（仮）",
+        "penName": "そんそん"
+    },
+    {
+        "spaceName": "I-12",
+        "name": "とりくる屋",
+        "penName": "wdms"
+    },
+    {
+        "spaceName": "I-13",
+        "name": "錦りぼん",
+        "penName": "ぶの錦"
+    },
+    {
+        "spaceName": "I-14",
+        "name": "BAKED POPOTO",
+        "penName": "POPOTO"
+    },
+    {
+        "spaceName": "I-15",
+        "name": "ハイドロの根っこ",
+        "penName": "ハイドロ2号"
+    },
+    {
+        "spaceName": "I-16",
+        "name": "るあすカラーズ",
+        "penName": "立花るあす"
+    },
+    {
+        "spaceName": "I-17",
+        "name": "箸百膳",
+        "penName": "箸百膳"
+    },
+    {
+        "spaceName": "I-18",
+        "name": "ばろテトリウム",
+        "penName": "ばろきゃっと・青いテトラポッド"
+    },
+    {
+        "spaceName": "I-19",
+        "name": "peptide",
+        "penName": "さよなか"
+    },
+    {
+        "spaceName": "J-01",
+        "name": "げっし類の楽園",
+        "penName": "かぴい"
+    },
+    {
+        "spaceName": "J-02",
+        "name": "ねこのこや",
+        "penName": "ぜむねこ"
+    },
+    {
+        "spaceName": "J-03",
+        "name": "ぺんたごん",
+        "penName": "ひまじん"
+    },
+    {
+        "spaceName": "J-04",
+        "name": "焼き鳶",
+        "penName": "トビ"
+    },
+    {
+        "spaceName": "J-05",
+        "name": "ワガママキママ",
+        "penName": "kimama"
+    },
+    {
+        "spaceName": "J-06",
+        "name": "ゼータクサーロイン",
+        "penName": "senkei　kokugi"
+    },
+    {
+        "spaceName": "J-08",
+        "name": "さくらゆめうた",
+        "penName": "桜詩香"
+    },
+    {
+        "spaceName": "J-09",
+        "name": "きゃらめるかぷち～の",
+        "penName": "大神聖・宮原みやこ"
+    },
+    {
+        "spaceName": "J-10",
+        "name": "直射月光",
+        "penName": "にしの・みやと"
+    },
+    {
+        "spaceName": "J-11,12",
+        "name": "緒久屋",
+        "penName": "ひさの"
+    },
+    {
+        "spaceName": "K-01",
+        "name": "そこそこ幸せな生活",
+        "penName": "さめあんこ"
+    },
+    {
+        "spaceName": "K-02",
+        "name": "えびはうす",
+        "penName": "えびごはん"
+    },
+    {
+        "spaceName": "K-03",
+        "name": "すいめー産業",
+        "penName": "Suimei333"
+    },
+    {
+        "spaceName": "K-04",
+        "name": "天手戸隠荘",
+        "penName": "戸隠スバル"
+    },
+    {
+        "spaceName": "K-05,06",
+        "name": "喫茶、甘珈琲",
+        "penName": "雪日しるべ"
+    },
+    {
+        "spaceName": "K-07",
+        "name": "山田工房",
+        "penName": "山田桜"
+    },
+    {
+        "spaceName": "K-08",
+        "name": "北の雪だるま",
+        "penName": "北彩あい"
+    },
+    {
+        "spaceName": "K-09",
+        "name": "すみーず・みー",
+        "penName": "お部屋片隅"
+    },
+    {
+        "spaceName": "K-10",
+        "name": "チェリ子とトロメラ",
+        "penName": "チェリ子/トロメラ"
+    },
+    {
+        "spaceName": "K-12",
+        "name": "ビーフジャンキー",
+        "penName": "キスミィ"
+    },
+    {
+        "spaceName": "K-13",
+        "name": "くろぴさー",
+        "penName": "くろ"
+    },
+    {
+        "spaceName": "K-14",
+        "name": "プロジェクトアーカム",
+        "penName": "コクルイ"
+    },
+    {
+        "spaceName": "K-15",
+        "name": "This is joke goods!",
+        "penName": "もれ"
+    },
+    {
+        "spaceName": "K-16",
+        "name": "蛸足海鮮",
+        "penName": "さびを"
+    },
+    {
+        "spaceName": "K-17",
+        "name": "終末精肉店",
+        "penName": "遠藤029"
+    },
+    {
+        "spaceName": "K-18",
+        "name": "通り雨停留所",
+        "penName": "しぐ。"
+    },
+    {
+        "spaceName": "K-19",
+        "name": "うにゃむにゃオペレッタ",
+        "penName": "しよへえ"
+    },
+    {
+        "spaceName": "L-01",
+        "name": "たられば～",
+        "penName": "不二乃ユウキ"
+    },
+    {
+        "spaceName": "L-02",
+        "name": "Schenkel Union",
+        "penName": "羽山悠"
+    },
+    {
+        "spaceName": "L-03",
+        "name": "Take da.Y's off",
+        "penName": "剛田幸村"
+    },
+    {
+        "spaceName": "L-04",
+        "name": "Uにらっぱ",
+        "penName": "Uスケ"
+    },
+    {
+        "spaceName": "L-05",
+        "name": "黒まめ小屋",
+        "penName": "黒豆ワンコ"
+    },
+    {
+        "spaceName": "L-06",
+        "name": "よつばわかば",
+        "penName": "たま"
+    },
+    {
+        "spaceName": "L-07",
+        "name": "八十八慶雲亭",
+        "penName": "裏側"
+    },
+    {
+        "spaceName": "L-08",
+        "name": "つきのうらがわ",
+        "penName": "ムックル"
+    },
+    {
+        "spaceName": "L-09",
+        "name": "うしろつみ",
+        "penName": "ふつき"
+    },
+    {
+        "spaceName": "L-10",
+        "name": "しゅんどっとこむ",
+        "penName": "Shun."
+    },
+    {
+        "spaceName": "L-11",
+        "name": "さじかふぇ",
+        "penName": "さじのき"
+    },
+    {
+        "spaceName": "L-12",
+        "name": "ボイロ四季茶屋",
+        "penName": "糖分魔王"
+    },
+    {
+        "spaceName": "L-13",
+        "name": "うぃんたーきゃっつ",
+        "penName": "冬宮紀沙"
+    },
+    {
+        "spaceName": "L-14",
+        "name": "なつみかん",
+        "penName": "みなみなつ"
+    },
+    {
+        "spaceName": "L-15",
+        "name": "しらりてん",
+        "penName": "しく"
+    },
+    {
+        "spaceName": "L-16",
+        "name": "崖の下の谷の上",
+        "penName": "のら峠家"
+    },
+    {
+        "spaceName": "L-17",
+        "name": "海の向こう",
+        "penName": "葡萄"
+    },
+    {
+        "spaceName": "L-18",
+        "name": "ex少女",
+        "penName": "月代憂"
+    },
+    {
+        "spaceName": "L-19",
+        "name": "EBI",
+        "penName": "しろえ"
+    },
+    {
+        "spaceName": "L-20",
+        "name": "MEN",
+        "penName": "ドエム"
+    },
+    {
+        "spaceName": "M-01",
+        "name": "のびぬこーズ",
+        "penName": "mindaha"
+    },
+    {
+        "spaceName": "M-02",
+        "name": "キマシタワーProduction",
+        "penName": "キマシタワーP"
+    },
+    {
+        "spaceName": "M-03",
+        "name": "通り雨",
+        "penName": "Rudra"
+    },
+    {
+        "spaceName": "M-04",
+        "name": "mer",
+        "penName": "ゆるの"
+    },
+    {
+        "spaceName": "M-05",
+        "name": "満員烏小屋",
+        "penName": "Crow Monet"
+    },
+    {
+        "spaceName": "M-06",
+        "name": "にぐひすふぁくとれむ",
+        "penName": "海銅レオ"
+    },
+    {
+        "spaceName": "M-07",
+        "name": "自然茸",
+        "penName": "猫地　海月"
+    },
+    {
+        "spaceName": "M-08",
+        "name": "古書店文月堂",
+        "penName": "藤杜錬"
+    },
+    {
+        "spaceName": "M-09,10",
+        "name": "雛菊書房",
+        "penName": "小鳥遊 昴"
+    },
+    {
+        "spaceName": "M-11",
+        "name": "瓶詰読書",
+        "penName": "福寿草"
+    },
+    {
+        "spaceName": "M-12",
+        "name": "えこだまーけっと",
+        "penName": "えこだま"
+    },
+    {
+        "spaceName": "M-13",
+        "name": "エドキスタジオ",
+        "penName": "江戸木檀介"
+    },
+    {
+        "spaceName": "M-14",
+        "name": "星空祭",
+        "penName": "祭"
+    },
+    {
+        "spaceName": "M-15",
+        "name": "かんでらぶら",
+        "penName": "秋米"
+    },
+    {
+        "spaceName": "M-16",
+        "name": "作業部屋",
+        "penName": "コンテナ"
+    },
+    {
+        "spaceName": "M-17",
+        "name": "幻灯事務所",
+        "penName": "こバター"
+    },
+    {
+        "spaceName": "M-18",
+        "name": "文鎮瓦",
+        "penName": "大村中"
+    },
+    {
+        "spaceName": "M-19",
+        "name": "ミントセロリー",
+        "penName": "みかぜ"
+    },
+    {
+        "spaceName": "M-20",
+        "name": "あひる工場＆午後のにゃん茶会",
+        "penName": "風呂巫女　にゃんちゃ"
+    },
+    {
+        "spaceName": "N-01",
+        "name": "e/M CRAFT WORKS",
+        "penName": "まんさき"
+    },
+    {
+        "spaceName": "N-02",
+        "name": "りきめつ！",
+        "penName": "つめきり"
+    },
+    {
+        "spaceName": "N-03",
+        "name": "Swivel",
+        "penName": "東雲"
+    },
+    {
+        "spaceName": "N-04",
+        "name": "ふとももの森",
+        "penName": "つるぺ"
+    },
+    {
+        "spaceName": "N-05",
+        "name": "やまの直売所",
+        "penName": "やまかっぱ"
+    },
+    {
+        "spaceName": "N-06",
+        "name": "午後の天然水",
+        "penName": "ツンデレオン"
+    },
+    {
+        "spaceName": "N-07",
+        "name": "ハイロキツネ",
+        "penName": "さばとら"
+    },
+    {
+        "spaceName": "N-08",
+        "name": "ぱてすか屋",
+        "penName": "ぱてすか"
+    },
+    {
+        "spaceName": "N-09",
+        "name": "襖の奥",
+        "penName": "床の間Q"
+    },
+    {
+        "spaceName": "N-10",
+        "name": "ハッピーエンド主義",
+        "penName": "おにぎり"
+    },
+    {
+        "spaceName": "N-11",
+        "name": "マキマキファンクラブ事務局",
+        "penName": "マキマキファンクラブ事務局"
+    },
+    {
+        "spaceName": "N-12",
+        "name": "ひいらぎさんちの本棚",
+        "penName": "ひいらぎ"
+    },
+    {
+        "spaceName": "N-13",
+        "name": "葉書描",
+        "penName": "子葉　緑"
+    },
+    {
+        "spaceName": "N-14",
+        "name": "三十六味唐辛子",
+        "penName": "せら"
+    },
+    {
+        "spaceName": "N-15",
+        "name": "鞄の中",
+        "penName": "鞄莫迦"
+    },
+    {
+        "spaceName": "N-16",
+        "name": "MONOゲート",
+        "penName": "ロート"
+    },
+    {
+        "spaceName": "N-17",
+        "name": "夜長のそらもよう",
+        "penName": "すかいはい"
+    },
+    {
+        "spaceName": "N-18",
+        "name": "琴葉茜のぱんつのクロッチ",
+        "penName": "妖精"
+    },
+    {
+        "spaceName": "N-19",
+        "name": "守口屋",
+        "penName": "守口"
+    },
+    {
+        "spaceName": "O-01",
+        "name": "だぼしゃつ駆動",
+        "penName": "yukkier"
+    },
+    {
+        "spaceName": "O-02",
+        "name": "絵島屋",
+        "penName": "絵島"
+    },
+    {
+        "spaceName": "O-03",
+        "name": "QJACK",
+        "penName": "孔雀"
+    },
+    {
+        "spaceName": "O-04",
+        "name": "あかむらさきゲームズ",
+        "penName": "かいふ"
+    },
+    {
+        "spaceName": "O-05",
+        "name": "ランドマークはまや",
+        "penName": "浜屋"
+    },
+    {
+        "spaceName": "O-06",
+        "name": "幸セ来セ",
+        "penName": "あオ"
+    },
+    {
+        "spaceName": "O-07",
+        "name": "もふ鍋",
+        "penName": "りんすP"
+    },
+    {
+        "spaceName": "O-08",
+        "name": "ヨフアル庵",
+        "penName": "わさび"
+    },
+    {
+        "spaceName": "O-09",
+        "name": "SEACLOUD",
+        "penName": "荒居栂美"
+    },
+    {
+        "spaceName": "O-10",
+        "name": "ぼるぼっくす",
+        "penName": "もじゃ"
+    },
+    {
+        "spaceName": "O-11",
+        "name": "お散歩もよちゃん",
+        "penName": "もよこ"
+    },
+    {
+        "spaceName": "O-12",
+        "name": "ふぇぶありー",
+        "penName": "ぺんぺけ"
+    },
+    {
+        "spaceName": "O-13",
+        "name": "Cast_A",
+        "penName": "のまのま"
+    },
+    {
+        "spaceName": "O-14",
+        "name": "永遠廻希:ff",
+        "penName": "時廻"
+    },
+    {
+        "spaceName": "O-15",
+        "name": "マグナムカルタ",
+        "penName": "マグナ"
+    },
+    {
+        "spaceName": "O-16",
+        "name": "あかみんち",
+        "penName": "akami"
+    },
+    {
+        "spaceName": "P-01,02",
+        "name": "電波塔",
+        "penName": "かなた"
+    },
+    {
+        "spaceName": "P-03",
+        "name": "春日野道知ル辺",
+        "penName": "春日さん"
+    },
+    {
+        "spaceName": "P-04",
+        "name": "趣味工房にんじんわいん",
+        "penName": "ARA"
+    },
+    {
+        "spaceName": "P-05",
+        "name": "食道楽",
+        "penName": "じっそく"
+    },
+    {
+        "spaceName": "P-06",
+        "name": "あめのつち",
+        "penName": "九六ダイ"
+    },
+    {
+        "spaceName": "P-07",
+        "name": "セーブポイント",
+        "penName": "セーバー"
+    },
+    {
+        "spaceName": "P-08",
+        "name": "UMAの缶詰",
+        "penName": "UMA56"
+    },
+    {
+        "spaceName": "P-09",
+        "name": "ＹＡＫＩ・ＯＮＩＧＩＲＩ",
+        "penName": "流離薄"
+    },
+    {
+        "spaceName": "P-10",
+        "name": "箱庭のアリス",
+        "penName": "空遙"
+    },
+    {
+        "spaceName": "P-11",
+        "name": "ひかげ日和",
+        "penName": "鉛寺ほのか"
+    },
+    {
+        "spaceName": "P-12",
+        "name": "MILK-JAM",
+        "penName": "ムツキシ"
+    },
+    {
+        "spaceName": "P-13",
+        "name": "社会不適合。",
+        "penName": "じょにい・ふぁりあす"
+    },
+    {
+        "spaceName": "P-14",
+        "name": "でりしゃす！",
+        "penName": "大宮祝詞"
+    },
+    {
+        "spaceName": "P-15",
+        "name": "弓張月の夜市",
+        "penName": "よふたん"
+    },
+    {
+        "spaceName": "P-16",
+        "name": "モナルダの木",
+        "penName": "ベルガモット"
+    },
+    {
+        "spaceName": "Q-01",
+        "name": "ネコノキ",
+        "penName": "老いぼれ猫"
+    },
+    {
+        "spaceName": "Q-02",
+        "name": "電球的",
+        "penName": "電球"
+    },
+    {
+        "spaceName": "Q-03",
+        "name": "エリア131",
+        "penName": "taka"
+    },
+    {
+        "spaceName": "Q-04",
+        "name": "黄泉堂",
+        "penName": "石竹"
+    },
+    {
+        "spaceName": "Q-05",
+        "name": "向日葵が咲く季節に･･･",
+        "penName": "柚空 夏菜"
+    },
+    {
+        "spaceName": "Q-06",
+        "name": "スズモフ屋",
+        "penName": "スズモフ"
+    },
+    {
+        "spaceName": "Q-07",
+        "name": "雪降る港の番猫",
+        "penName": "ゆっきー"
+    },
+    {
+        "spaceName": "Q-09",
+        "name": "Rabbit Punch",
+        "penName": "逢見うめ"
+    },
+    {
+        "spaceName": "Q-10",
+        "name": "手縫い処キツツキ",
+        "penName": "志乃らんと"
+    },
+    {
+        "spaceName": "Q-11,12",
+        "name": "新世界ミルクホール",
+        "penName": "朝倉愛"
+    },
+    {
+        "spaceName": "Q-13",
+        "name": "あばばF@ctory",
+        "penName": "JohnDoe"
+    },
+    {
+        "spaceName": "Q-14",
+        "name": "coding工房",
+        "penName": "DPM"
+    },
+    {
+        "spaceName": "Q-15",
+        "name": "革は食べられない",
+        "penName": "シヨミフ"
+    },
+    {
+        "spaceName": "Q-16",
+        "name": "茜印の革細工",
+        "penName": "緋音なつき"
+    },
+    {
+        "spaceName": "R-01",
+        "name": "S-canvas",
+        "penName": "月灯ゆら、(飲み会芸人P)"
+    },
+    {
+        "spaceName": "R-02",
+        "name": "ボイロアクセ",
+        "penName": "神崎あんぱん"
+    },
+    {
+        "spaceName": "R-03",
+        "name": "Wing Field",
+        "penName": "Nagi"
+    },
+    {
+        "spaceName": "R-04",
+        "name": "雨漏り",
+        "penName": "雨カッパ"
+    },
+    {
+        "spaceName": "R-05",
+        "name": "炎4倍（仮）",
+        "penName": "AlucarD"
+    },
+    {
+        "spaceName": "R-06",
+        "name": "雑草畑",
+        "penName": "ひらあさみ"
+    },
+    {
+        "spaceName": "R-07,08",
+        "name": "こたつのぬくもり",
+        "penName": "半月、yoku"
+    },
+    {
+        "spaceName": "R-09",
+        "name": "お先真っ白",
+        "penName": "お先真っ暗"
+    },
+    {
+        "spaceName": "R-10",
+        "name": "天楼庵",
+        "penName": "ギギ"
+    },
+    {
+        "spaceName": "R-11",
+        "name": "デュエロイド",
+        "penName": "萌え豚系オーク"
+    },
+    {
+        "spaceName": "R-12",
+        "name": "ひまわりフィーバー",
+        "penName": "バロ"
+    },
+    {
+        "spaceName": "R-13",
+        "name": "机倶楽部",
+        "penName": "上顎"
+    },
+    {
+        "spaceName": "R-14",
+        "name": "くま工房",
+        "penName": "くま"
+    },
+    {
+        "spaceName": "R-15,16",
+        "name": "最大公約数",
+        "penName": "落柿梨雨"
+    },
+    {
+        "spaceName": "S-01",
+        "name": "SHANIC TEAM",
+        "penName": "シャニック"
+    },
+    {
+        "spaceName": "S-02",
+        "name": "四辺工房",
+        "penName": "しべ"
+    },
+    {
+        "spaceName": "S-03",
+        "name": "小石屋",
+        "penName": "シロイ・チャウダークラム"
+    },
+    {
+        "spaceName": "S-04",
+        "name": "ガラス工房舟木",
+        "penName": "舟木公一（偽名）"
+    },
+    {
+        "spaceName": "S-05",
+        "name": "Olfactory Laboratory",
+        "penName": "XAXIS"
+    },
+    {
+        "spaceName": "S-06",
+        "name": "さかなや。",
+        "penName": "うお"
+    },
+    {
+        "spaceName": "S-07,08",
+        "name": "喜創楽楽",
+        "penName": "WilL"
+    },
+    {
+        "spaceName": "S-09,10",
+        "name": "Boomslang",
+        "penName": "あず"
+    },
+    {
+        "spaceName": "S-11",
+        "name": "金平糖工房",
+        "penName": "Kenji"
+    },
+    {
+        "spaceName": "S-12",
+        "name": "ぬこぬこもふもふ",
+        "penName": "糸巻こころ"
+    },
+    {
+        "spaceName": "S-13,14",
+        "name": "こっとん ぱふぇ",
+        "penName": "るるこ"
+    },
+    {
+        "spaceName": "S-15,16",
+        "name": "Ｍｉｏｔｅｃ",
+        "penName": "東雲　龍之介"
+    },
+    {
+        "spaceName": "あ-03",
+        "name": "けもゆる",
+        "penName": "紅壱"
+    },
+    {
+        "spaceName": "あ-04",
+        "name": "タン塩食べ放題",
+        "penName": "塩武"
+    },
+    {
+        "spaceName": "あ-05",
+        "name": "４Ｋ製作所",
+        "penName": "かカカカ"
+    },
+    {
+        "spaceName": "あ-06",
+        "name": "緑黄色雑草",
+        "penName": "御辞江丸"
+    },
+    {
+        "spaceName": "あ-07",
+        "name": "月明かりの桜",
+        "penName": "桜華"
+    },
+    {
+        "spaceName": "あ-09",
+        "name": "WKJ24",
+        "penName": "わじま24"
+    },
+    {
+        "spaceName": "あ-10",
+        "name": "妖怪パンダの自分勝手団",
+        "penName": "ミサキえんじゅ"
+    },
+    {
+        "spaceName": "あ-11",
+        "name": "あるぱかのプロ",
+        "penName": "あるぱかの人（遊騎）"
+    },
+    {
+        "spaceName": "あ-12",
+        "name": "ツギハギスクリプト",
+        "penName": "モノロク"
+    },
+    {
+        "spaceName": "あ-13",
+        "name": "ニーチェ",
+        "penName": "ニッチ"
+    },
+    {
+        "spaceName": "あ-14",
+        "name": "くりーぴーくらうりー",
+        "penName": "橘虫"
+    },
+    {
+        "spaceName": "あ-15",
+        "name": "すきやきクラブ",
+        "penName": "孝治"
+    },
+    {
+        "spaceName": "あ-16",
+        "name": "明日も晴れのち兎",
+        "penName": "あすぱると"
+    },
+    {
+        "spaceName": "あ-17",
+        "name": "ひとゆめ",
+        "penName": "タナカカズム"
+    },
+    {
+        "spaceName": "あ-18",
+        "name": "甘味処",
+        "penName": "甘味処"
+    },
+    {
+        "spaceName": "あ-19",
+        "name": "ロシアンブルー",
+        "penName": "水夏"
+    },
+    {
+        "spaceName": "あ-20",
+        "name": "銀一色の空",
+        "penName": "銀の太陽"
+    },
+    {
+        "spaceName": "あ-21",
+        "name": "あるたな",
+        "penName": "薙派"
+    },
+    {
+        "spaceName": "あ-22",
+        "name": "ZooAnime",
+        "penName": "ズウアニメ"
+    },
+    {
+        "spaceName": "あ-23",
+        "name": "カレーにだいこん",
+        "penName": "りんどう"
+    },
+    {
+        "spaceName": "あ-24",
+        "name": "Stapspats",
+        "penName": "翡翠石"
+    },
+    {
+        "spaceName": "あ-25",
+        "name": "烏賊輪",
+        "penName": "アジシオ"
+    },
+    {
+        "spaceName": "あ-26",
+        "name": "Dr.VERMILION",
+        "penName": "ペテン師"
+    },
+    {
+        "spaceName": "い-03",
+        "name": "kuchen sirup",
+        "penName": "にのパル"
+    },
+    {
+        "spaceName": "い-04",
+        "name": "びあ's がーでん",
+        "penName": "BR"
+    },
+    {
+        "spaceName": "い-05,06",
+        "name": "V-Resistance",
+        "penName": "ゆずのり"
+    },
+    {
+        "spaceName": "い-07",
+        "name": "怪人ケモミミランジェリーマン",
+        "penName": "みゅみゅたいん"
+    },
+    {
+        "spaceName": "い-08",
+        "name": "Wine cellar",
+        "penName": "第九ワイン"
+    },
+    {
+        "spaceName": "い-09,10",
+        "name": "調声豆乳",
+        "penName": "じぇろいちジョー"
+    },
+    {
+        "spaceName": "い-11",
+        "name": "orbital mine",
+        "penName": "二之宮 弐朗"
+    },
+    {
+        "spaceName": "い-12",
+        "name": "ゆづきずしーびー",
+        "penName": "さかっち"
+    },
+    {
+        "spaceName": "い-13",
+        "name": "ミコト「くん」を愛する者たちより",
+        "penName": "蒼"
+    },
+    {
+        "spaceName": "い-14",
+        "name": "葉っぱのうらで雨宿り",
+        "penName": "芋蒸"
+    },
+    {
+        "spaceName": "い-15",
+        "name": "柔らか青豆の温サラダ",
+        "penName": "筒田"
+    },
+    {
+        "spaceName": "う-01",
+        "name": "あんゆーじゅある",
+        "penName": "神嵜レイ"
+    },
+    {
+        "spaceName": "う-02",
+        "name": "うたごえ",
+        "penName": "仙台くろっく"
+    },
+    {
+        "spaceName": "う-03",
+        "name": "TAOB",
+        "penName": "おだぶつ"
+    },
+    {
+        "spaceName": "う-04",
+        "name": "万分の市",
+        "penName": "パーミリア"
+    },
+    {
+        "spaceName": "う-05,06",
+        "name": "花の音",
+        "penName": "はなびる"
+    },
+    {
+        "spaceName": "う-07",
+        "name": "迷い家の屋根裏",
+        "penName": "しのびぃ～"
+    },
+    {
+        "spaceName": "う-08",
+        "name": "東呉茶屋",
+        "penName": "村井 忍"
+    },
+    {
+        "spaceName": "う-09",
+        "name": "アイスイーター",
+        "penName": "ni-bu"
+    },
+    {
+        "spaceName": "う-10",
+        "name": "てん＋あく",
+        "penName": "みU"
+    },
+    {
+        "spaceName": "う-11",
+        "name": "じゃじゅじょ",
+        "penName": "じょぶじゅん。"
+    },
+    {
+        "spaceName": "う-12",
+        "name": "月下美刃",
+        "penName": "エロムラサキ"
+    },
+    {
+        "spaceName": "う-13",
+        "name": "Little Talk",
+        "penName": "てばきめら"
+    },
+    {
+        "spaceName": "う-14",
+        "name": "けん玉工房",
+        "penName": "縦海けん"
+    },
+    {
+        "spaceName": "う-15",
+        "name": "悟リ御膳",
+        "penName": "コンソメ"
+    },
+    {
+        "spaceName": "え-01",
+        "name": "AOI'sRope【P】",
+        "penName": "葵ちゃんの紐パン"
+    },
+    {
+        "spaceName": "え-02",
+        "name": "黒色炭酸飲料",
+        "penName": "くろ"
+    },
+    {
+        "spaceName": "え-03",
+        "name": "夢幻の世界",
+        "penName": "B-ta"
+    },
+    {
+        "spaceName": "え-04",
+        "name": "Mireillemist",
+        "penName": "らみえるみすと"
+    },
+    {
+        "spaceName": "え-05",
+        "name": "うらかがく部",
+        "penName": "カルデ拓"
+    },
+    {
+        "spaceName": "え-06",
+        "name": "かじりや",
+        "penName": "偽善者"
+    },
+    {
+        "spaceName": "え-07",
+        "name": "Studio A'",
+        "penName": "綾麻惟也"
+    },
+    {
+        "spaceName": "え-08",
+        "name": "幼性Imagination",
+        "penName": "けたま"
+    },
+    {
+        "spaceName": "え-11",
+        "name": "蒟蒻鍋",
+        "penName": "magifuro蒟蒻"
+    },
+    {
+        "spaceName": "え-12",
+        "name": "サークルENERGY",
+        "penName": "いまきひととせ"
+    },
+    {
+        "spaceName": "え-13",
+        "name": "安閑家",
+        "penName": "うれあっぷ"
+    },
+    {
+        "spaceName": "え-14",
+        "name": "わろみん家",
+        "penName": "わろみん"
+    },
+    {
+        "spaceName": "え-15",
+        "name": "桃色電波塔",
+        "penName": "雪傘"
+    },
+    {
+        "spaceName": "え-16",
+        "name": "Luv.",
+        "penName": "七森ぬぬ"
+    },
+    {
+        "spaceName": "え-17",
+        "name": "シンセカイセット",
+        "penName": "へたれん"
+    },
+    {
+        "spaceName": "え-18",
+        "name": "あるけ亭",
+        "penName": "Re祇園"
+    },
+    {
+        "spaceName": "え-19",
+        "name": "ウサゴヤ",
+        "penName": "うさぽむ"
+    },
+    {
+        "spaceName": "え-20",
+        "name": "Chrronix",
+        "penName": "春上里央"
+    },
+    {
+        "spaceName": "お-02",
+        "name": "ゆうぐれさんぽ",
+        "penName": "miri_1m"
+    },
+    {
+        "spaceName": "お-03",
+        "name": "天津文堂",
+        "penName": "天津伊月"
+    },
+    {
+        "spaceName": "お-04",
+        "name": "創世少女　Create Systers",
+        "penName": "ヴァグランツＰ"
+    },
+    {
+        "spaceName": "お-05",
+        "name": "ろきそにーん",
+        "penName": "そに"
+    },
+    {
+        "spaceName": "お-06",
+        "name": "さささきささささ",
+        "penName": "わかささ"
+    },
+    {
+        "spaceName": "お-07",
+        "name": "あやかしらびっつ",
+        "penName": "アヤカシ"
+    },
+    {
+        "spaceName": "お-08",
+        "name": "めんだるいいんです。",
+        "penName": "かぜん しう"
+    },
+    {
+        "spaceName": "お-09",
+        "name": "ヤッてみよう！",
+        "penName": "ヤッペン"
+    },
+    {
+        "spaceName": "お-11",
+        "name": "モチもち",
+        "penName": "しか"
+    },
+    {
+        "spaceName": "お-12",
+        "name": "いづも合衆国",
+        "penName": "独占いづも"
+    },
+    {
+        "spaceName": "お-13",
+        "name": "秘宝コトノハーツ",
+        "penName": "nanagi"
+    },
+    {
+        "spaceName": "お-14",
+        "name": "うぇーすとぷらんと",
+        "penName": "うぇーすと"
+    },
+    {
+        "spaceName": "お-15",
+        "name": "あもしゃんしゃん",
+        "penName": "あもー"
+    },
+    {
+        "spaceName": "お-16",
+        "name": "act.direction",
+        "penName": "ぱるとねる"
+    },
+    {
+        "spaceName": "お-17",
+        "name": "雑草ホリディ",
+        "penName": "くりおね"
+    },
+    {
+        "spaceName": "お-18",
+        "name": "黒鳥庭園",
+        "penName": "ITA"
+    },
+    {
+        "spaceName": "痛-01",
+        "name": "結月ゆかりツーリング声月支部",
+        "penName": "鹿島田"
+    }
+]
