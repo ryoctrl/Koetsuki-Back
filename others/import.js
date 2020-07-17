@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const files = [
-    'extendedCircles.json',
+    'voiconne_circles.json',
 ]
 const cc = require('../controllers/CirclesController');
 const gc = require('../controllers/GoodsController');
